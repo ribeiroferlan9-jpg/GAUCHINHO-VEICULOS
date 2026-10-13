@@ -1,0 +1,6 @@
+{
+  "name": "Gauchinho Veículos - Catálogo Digital & Carros Seminovos",
+  "description": "Website institucional e catálogo digital premium da Gauchinho Veículos. Carros seminovos selecionados com procedência e as melhores condições de financiamento do mercado sul-mato-grossense.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
